@@ -11,6 +11,7 @@ namespace SeleniumParallelTest
         public FirefoxTesting() : base(BrowserType.Firefox)
         {
             // browser test
+
         }
 
         [Test]
